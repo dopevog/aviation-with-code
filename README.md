@@ -18,6 +18,7 @@
 
 <br />
 
+
 **I would recommend tools like this as `educational`👨‍🎓 support in schools and universities. Thanks to targeted design choices and an advanced code debugging system _(with time travel)_, The Game tries to provide the best developer experience and guide the student's `reasoning` in each challenge.**
 
 <br>
